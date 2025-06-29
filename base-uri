@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href=".../exploit_code/">
+    <script src="base_bypass.js"></script>
+  </head>
+  <body>
+	base-uri CSP bypass
+  </body>
+</html>
